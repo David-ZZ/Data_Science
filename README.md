@@ -1,2 +1,2 @@
-# Zhihua
-test2016
+# 章志華
+Lab. of Data Science
